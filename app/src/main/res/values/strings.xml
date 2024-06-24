@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">University Catalog</string>
+    <string name="title_activity_toast">ToastActivity</string>
+    <string name="no_network">No internet connection found.</string>
+    <string name="ok">OK</string>
+    <string name="no_data_found">No data found</string>
+</resources>
